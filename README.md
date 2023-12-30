@@ -1,13 +1,9 @@
-git clone [https://github.com/ernur768/web-bmi-calculator.git]
-
-cd [web-bmi-calculator]
-
-npm install
-
-npm start
-
-http://localhost:3000/
-
+Running the Application:
+- git clone [https://github.com/ernur768/web-bmi-calculator.git]
+- cd web-bmi-calculator
+- npm install
+- npm start
+- [http://localhost:3000/]
 
 npm Packages Used:
 - config
